@@ -1,6 +1,6 @@
 ## Hiyo 👋
 
-I get nerdy about things.
+I'm addicted to Monsters and get nerdy about things.
 ___
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
@@ -18,7 +18,7 @@ ___
 ___
 
 ### Skills 💪
-- 📱 mobile specialization
+- 📱 Android & KMP
 - 🌍 four languages (fluent in three)
 - 🎤 bad jokes
 
