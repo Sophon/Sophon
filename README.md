@@ -22,7 +22,7 @@ I'm addicted to Monsters and get nerdy about things.
 
 ### Aspiring ☄️
 - 🎤 telling better jokes
-- ♥️♠️♦️♣️ learning poker
+- ♥️♠️♦️♣️ winning @poker
 - 🏎️ sim racing
-- 🎸 producing acceptable sounds on the guitar
-- 🤼 BJJ
+- 🎸 producing acceptable sounds @guitar
+- 🤼 don't get folded @BJJ
