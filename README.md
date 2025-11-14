@@ -1,7 +1,7 @@
 ## Hiyo 👋
 
 I'm addicted to Monsters and get nerdy about things.
-___
+
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
 <table border="0" border="none">
@@ -14,8 +14,6 @@ ___
     </td>
  </tr>
 </table>
-
-___
 
 ### Skills 💪
 - 📱 Android & KMP
