@@ -14,3 +14,17 @@ ___
     </td>
  </tr>
 </table>
+
+___
+
+### Skills 💪
+- 📱 mobile specialization
+- 🌍 four languages (fluent in three)
+- 🎤 bad jokes
+
+### Aspiring ☄️
+- 🎤 telling better jokes
+- ♥️♠️♦️♣️ learning poker
+- 🏎️ sim racing
+- 🎸 producing acceptable sounds on the guitar
+- 🤼 BJJ
