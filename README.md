@@ -1,6 +1,7 @@
 ## Hiyo 👋
 
 I'm addicted to Monsters and get nerdy about things.
+
 Striving to be a renaissance man.
 
 ## 📈 Stats
