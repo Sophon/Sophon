@@ -1,6 +1,7 @@
 ## Hiyo 👋
 
 I'm addicted to Monsters and get nerdy about things.
+Striving to be a renaissance man.
 
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
@@ -19,10 +20,3 @@ I'm addicted to Monsters and get nerdy about things.
 - 📱 Android & KMP
 - 🌍 four languages (fluent in three)
 - 🎤 bad jokes
-
-### Aspiring ☄️
-- 🎤 telling better jokes
-- ♥️♠️♦️♣️ winning @poker
-- 🏎️ sim racing
-- 🎸 producing acceptable sounds @guitar
-- 🤼 don't get folded @BJJ
