@@ -1,6 +1,6 @@
 ## Hiyo 👋
 
-I'm addicted to Monsters and get nerdy about things.
+I'm addicted to Monsters, create things and get nerdy about them.
 
 Striving to be a renaissance man.
 
