@@ -1,8 +1,8 @@
 ## Hiyo 👋
 
-I'm addicted to Monsters. I also create things and get nerdy about them.
+Creator. Nerd. Monster addict.
 
-Striving to be a renaissance man.
+One day, a renaissance man.
 
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
