@@ -2,7 +2,7 @@
 
 Creator. Nerd. Monster addict.
 
-One day, a renaissance man.
+Mobile dev by trade. Hopefully renaissance man one day.
 
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
@@ -16,8 +16,3 @@ One day, a renaissance man.
     </td>
  </tr>
 </table>
-
-### Skills 💪
-- 📱 Android & KMP
-- 🌍 four languages (fluent in three)
-- 🎤 bad jokes
