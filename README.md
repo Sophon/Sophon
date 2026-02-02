@@ -2,7 +2,7 @@
 
 Creator. Nerd. Monster addict.
 
-Professional mobile dev by trade. Working lazily to become a fullstack dev.
+Professional mobile dev by trade. Working lazily towards becoming a fullstack dev.
 
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
