@@ -2,7 +2,7 @@
 
 Creator. Nerd. Monster addict.
 
-Mobile dev all day. Learning full-stack all night.
+Mobile dev all day. Learning BE all night.
 
 ## 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
