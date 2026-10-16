@@ -1,11 +1,16 @@
 ## Hiyo 👋
 
-Creator. Nerd. Monster addict.
+Creator. Nerd. Kotlin enthusiast. Monster addict.
 
-Mobile dev all day. Learning BE all night.
+Mobile: 2020 - 2026.
+
+BE: 2026 - onwards.
+
+> Software must be cynical. Cynical software expects bad things to happen and is never surprised when they do. Cynical software doesn't even trust itself, so it puts up internal barriers to protect itself from failures. It refuses to get too intimate with other systems, because it could get hurt.
+>
+> - Michael T. Nygard, Release It!
 
 ## 📈 Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Sophon&color=blue)
 <table border="0" border="none">
  <tr>
   <td>
