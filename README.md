@@ -1,9 +1,8 @@
 ## Hiyo 👋
 
-Creator. Nerd. Kotlin enthusiast. Monster addict.
+Creator. Nerd. Recovering Monster addict.
 
-- Mobile: 2020 - 2026
-- BE: 2026 - onwards
+Formerly a mobile dev (2020-2026), now a BE dev. Always playing catch-up.
 
 > Software must be cynical. Cynical software expects bad things to happen and is never surprised when they do. Cynical software doesn't even trust itself, so it puts up internal barriers to protect itself from failures. It refuses to get too intimate with other systems, because it could get hurt.
 >
